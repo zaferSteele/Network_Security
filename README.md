@@ -1,6 +1,10 @@
-<img src="assets/icon_network_security.png" alt="Network Security Toolkit" width="100">
+<h1 align="center">Zafer Steele's network security toolkit</h1>
 
-# Zafer Steele's Network Security Toolkit
+
+
+<p align="center">
+<img src="assets/icon_network_security.png" alt="Network Security Toolkit" width="100">
+</p>
 
 A set of scripts and tools focused on enhancing network security. Automate security checks, analyze traffic, manage firewall rules, and implement best practices to protect and monitor your network environment.
 
